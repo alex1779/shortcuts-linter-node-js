@@ -1,0 +1,1 @@
+# shortcuts-linter-node-js
