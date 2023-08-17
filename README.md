@@ -15,8 +15,8 @@ Then run, on side "linter_keys_registry" folder the menus what you need.
 ### Key Features <a name="key-features"></a>
 
 
-![Intro](https://github.com/alex1779/shortcuts-linter-node-js/blob/master/img/rightclickmenu.jpg)
+![Intro](https://github.com/alex1779/shortcuts-linter-node-js/blob/main/img/rightclickmenu.jpg)
 
-![Intro2](https://github.com/alex1779/shortcuts-linter-node-js/blob/master/img/video.gif)
+![Intro2](https://github.com/alex1779/shortcuts-linter-node-js/blob/main/img/video.gif)
 
 
