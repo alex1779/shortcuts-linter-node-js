@@ -1,7 +1,16 @@
 # shortcuts-linter-node-js
 
 
+<!-- PROJECT DESCRIPTION -->
 # 📖 Shortcuts For Linters Commands Node Js <a name="about-project"></a>
+
+
+
+# 📖 Description <a name="about-project"></a>
+
+This project allows you to use shortcuts to run node commands to use linter in your local directory.
+
+
 
 <!-- GETTING STARTED -->
 
