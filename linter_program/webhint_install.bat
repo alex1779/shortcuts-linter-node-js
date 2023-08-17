@@ -1,0 +1,1 @@
+cmd /k npm install --save-dev hint@7.x
