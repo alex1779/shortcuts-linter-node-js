@@ -23,8 +23,11 @@ Then run, on side "linter_keys_registry" folder the menus what you need.
 
 ### Key Features <a name="key-features"></a>
 
+In the following image you can see a screenshot when you right click on a file in the directory
 
 ![Intro](https://github.com/alex1779/shortcuts-linter-node-js/blob/main/img/rightclickmenu.jpg)
+
+
 
 ![Intro2](https://github.com/alex1779/shortcuts-linter-node-js/blob/main/img/video.gif)
 
