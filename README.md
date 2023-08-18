@@ -28,6 +28,7 @@ In the following image you can see a screenshot when you right click on a file i
 ![Intro](https://github.com/alex1779/shortcuts-linter-node-js/blob/main/img/rightclickmenu.jpg)
 
 
+In the following image we see how the execution of one of the menu commands is implemented
 
 ![Intro2](https://github.com/alex1779/shortcuts-linter-node-js/blob/main/img/video.gif)
 
