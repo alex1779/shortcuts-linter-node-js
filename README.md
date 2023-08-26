@@ -16,10 +16,11 @@ This project allows you to use shortcuts to run node commands to use linter on w
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-Clone the repository and copy the files on folder "linter_program" on "C:\linter_program" folder on your local directory.
+Clone the repository. Copy the files on folder "linter_program" on "C:\linter_program" folder on your local directory.
 
-Then execute wich command on "linter_keys_registry" folder the menus what you need.
+Install the key what you need to add on the 'right click menu' on "linter_keys_registry" folder the menus what you need.
 
+For use make sure you're right clicking a file inside the folder of your project!
 
 ### Key Features <a name="key-features"></a>
 
