@@ -1,0 +1,1 @@
+cmd /k npm install --save-dev html-webpack-plugin style-loader css-loader webpack-dev-server

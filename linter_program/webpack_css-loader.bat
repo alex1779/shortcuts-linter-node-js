@@ -1,0 +1,1 @@
+cmd /k npm install --save-dev style-loader css-loader
